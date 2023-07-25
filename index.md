@@ -1,11 +1,10 @@
-# [Projects](./pages/projects)
-
 The purpose of this webpage is threefold.
 
 First, 
 
+# [Projects](./pages/projects)
 
-* (Aluminum Rubik's Cube)[./pages/aluminum-rubiks-cube]
+* [Aluminum Rubik's Cube](./pages/aluminum-rubiks-cube)
 * Tensegrity Sculpture
 * Digital Nishika
 
