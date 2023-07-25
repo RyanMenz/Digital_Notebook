@@ -2,6 +2,7 @@
 
 * Aluminum Rubik's Cube
 * Tensegrity Sculpture
+* Digital Nishika
 
 # Wiki
 
@@ -10,4 +11,8 @@
 * Motors
 
 ## Electrical
+* Motor Control
 * Batteries
+
+## Practical
+* Anodizing
