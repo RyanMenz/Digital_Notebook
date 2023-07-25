@@ -1,6 +1,11 @@
 # [Projects](./pages/projects)
 
-* Aluminum Rubik's Cube
+The purpose of this webpage is threefold.
+
+First, 
+
+
+* (Aluminum Rubik's Cube)[./pages/aluminum-rubiks-cube]
 * Tensegrity Sculpture
 * Digital Nishika
 
