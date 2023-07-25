@@ -14,5 +14,3 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 markdown: GFM
-
-theme: jekyll-theme-tactile
