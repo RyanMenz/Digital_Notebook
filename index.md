@@ -1,7 +1,7 @@
-#Header
+# Header
 
 This is some Text
 
-##Secondary text
+## Secondary text
 
 This is some secondary Text
