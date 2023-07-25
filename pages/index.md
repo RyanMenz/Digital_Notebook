@@ -1,4 +1,4 @@
-# Projects
+# [Projects](./projects.md)
 
 * Aluminum Rubik's Cube
 * Tensegrity Sculpture
