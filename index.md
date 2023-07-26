@@ -1,3 +1,5 @@
+mobile test
+
 The purpose of this webpage is multifaceted.  Below are a few reasons:
 
 * I tend to engage deeply with a project for a few weeks, and then shift focus to other things for a few months.  When I come back to the original project, I find I don't remember many of the solutions I had come up with or resources I've discovered, and have to spend time getting myself up to speed again.
