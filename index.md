@@ -1,5 +1,3 @@
-mobile test
-
 The purpose of this webpage is multifaceted.  Below are a few reasons:
 
 * I tend to engage deeply with a project for a few weeks, and then shift focus to other things for a few months.  When I come back to the original project, I find I don't remember many of the solutions I had come up with or resources I've discovered, and have to spend time getting myself up to speed again.
@@ -21,16 +19,25 @@ Notebooks are good for sketching, but I can still scan and upload.
 * [Aluminum Rubik's Cube](./pages/aluminum-rubiks-cube)
 * Tensegrity Sculpture
 * Digital Nishika
+* Dead Bug Sculptures
+* Indoor Free Flight
+* Synthesizer
+
 
 # Wiki
 
 ## Mechanical
-* Power Transmission
+* [Power Transmission](./pages/power-transmission)
+* [Linear Motion](./pages/linear-motion)
 * Motors
 
 ## Electrical
-* Motor Control
+* [Motor Control](./pages/motor-control)
 * Batteries
 
-## Practical
-* Anodizing
+## Practical/Processes
+* [Anodizing](./pages/anodizing)
+* Screen Printing
+* DLP Printing
+* Welding
+* [Rust Cleaning](./pages/rust-cleaning)
