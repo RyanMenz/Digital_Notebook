@@ -23,7 +23,6 @@ Notebooks are good for sketching, but I can still scan and upload.
 * Indoor Free Flight
 * Synthesizer
 
-
 # Wiki
 
 ## Mechanical
@@ -34,6 +33,25 @@ Notebooks are good for sketching, but I can still scan and upload.
 ## Electrical
 * [Motor Control](./pages/motor-control)
 * Batteries
+
+## Materials Selection
+### Metals
+* [Aluminum](./pages/aluminum)
+* [Steel](./pages/steel)
+* [Stainless Steel](./pages/stainless-steel)
+* Brass
+### Polymers
+* Acrylic
+* Polycarbonate
+* HDPE
+### Composites
+* Fiberglass
+* Carbon Fiber
+* Aluminum Composite Material (AMC)
+### Wood
+* Plywood
+* Walnut
+* Basswood
 
 ## Practical/Processes
 * [Anodizing](./pages/anodizing)
