@@ -59,3 +59,6 @@ Notebooks are good for sketching, but I can still scan and upload.
 * DLP Printing
 * Welding
 * [Rust Cleaning](./pages/rust-cleaning)
+
+# Books
+* [BTR](./books/btr3-8.pdf)
