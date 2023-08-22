@@ -61,4 +61,7 @@ Notebooks are good for sketching, but I can still scan and upload.
 * [Rust Cleaning](./pages/rust-cleaning)
 
 # Books
-* [BTR](./books/btr3-8.pdf)
+* [BTR 3-8](./books/btr3-8.pdf)
+* [BTR 9-15](./books/btr9-15.pdf)
+* [BTR 16-20](./books/btr16-20.pdf)
+* [BTR 20-32](./books/btr20-32.pdf)
