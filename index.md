@@ -74,7 +74,7 @@ Notebooks are good for sketching, but I can still scan and upload.
 * DLP Printing
 * Welding
 * [Rust Cleaning](./pages/rust-cleaning)
-* [Pocket Hole Jig][./pages/pocket-hole-jig]
+* [Pocket Hole Jig](./pages/pocket-hole-jig)
 
 # Books
 * [BTR 3-8](./books/btr3-8.pdf)
