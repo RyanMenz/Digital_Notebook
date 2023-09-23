@@ -16,14 +16,15 @@ Notebooks are good for sketching, but I can still scan and upload.
 
 # Projects
 
-* [Aluminum Rubik's Cube](./pages/aluminum-rubiks-cube)
 * Water Tester Light Box
+* [Aluminum Rubik's Cube](./pages/aluminum-rubiks-cube)
 * Tensegrity Sculpture
 * Digital Nishika
 * 5x5 Rubiks Cube Solver
 * 3D Printed Unicycle/Bike
-* 3D Printed Carabiner
 * Digitizing 8mm Film
+\
+* 3D Printed Carabiner
 * Ant Logic Gates
 * 26 Puzzle
 * Dead Bug Sculptures
