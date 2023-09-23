@@ -14,7 +14,7 @@ Notebooks are good for sketching, but I can still scan and upload.
 
 * Document, share, 
 
-# [Projects](./pages/projects)
+# Projects
 
 * [Aluminum Rubik's Cube](./pages/aluminum-rubiks-cube)
 * Water Tester Light Box
@@ -45,6 +45,7 @@ Notebooks are good for sketching, but I can still scan and upload.
 ## Electrical
 * [Motor Control](./pages/motor-control)
 * Batteries
+* [DC-to-DC Converters](./pages/dc2dc)
 
 ## Materials Selection
 ### Metals
@@ -56,6 +57,8 @@ Notebooks are good for sketching, but I can still scan and upload.
 * Acrylic
 * Polycarbonate
 * HDPE
+* Acetal
+* Delrin
 ### Composites
 * Fiberglass
 * Carbon Fiber
@@ -71,6 +74,7 @@ Notebooks are good for sketching, but I can still scan and upload.
 * DLP Printing
 * Welding
 * [Rust Cleaning](./pages/rust-cleaning)
+* [Pocket Hole Jig][./pages/pocket-hole-jig]
 
 # Books
 * [BTR 3-8](./books/btr3-8.pdf)
