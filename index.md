@@ -15,9 +15,9 @@ Notebooks clutter, are hard to organize with multiple projects, can't hyperlink 
 Google docs are terrible at linking to eachother, unaesthetic.
 
 Notebooks are good for sketching, but I can still scan and upload.
-</details>
 
 * Document, share, 
+</details>
 
 # Physical Projects
 
