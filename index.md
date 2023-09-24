@@ -10,7 +10,7 @@ The purpose of this webpage is multifaceted.  Below are a few reasons:
 
 * For the previous two points, I've tried to keep a notebook or Google Doc with relevant information in it.  
 
-Notebooks clutter, are hard to organize with multiple projects, can't hyperlink or post picutres.  Can't share with other people very easily.
+Notebooks clutter, are hard to organize with multiple projects, can't hyperlink or post pictures.  Can't share with other people very easily.
 
 Google docs are terrible at linking to eachother, unaesthetic.
 
@@ -27,8 +27,7 @@ Notebooks are good for sketching, but I can still scan and upload.
 * Digital Nishika
 * 5x5 Rubiks Cube Solver
 * 3D Printed Unicycle/Bike
-* Digitizing 8mm Film
-\\
+* Digitizing 8mm Film<br><br>
 * 3D Printed Carabiner
 * Ant Logic Gates
 * 26 Puzzle
