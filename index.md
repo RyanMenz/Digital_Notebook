@@ -19,6 +19,8 @@ Notebooks are good for sketching, but I can still scan and upload.
 * Document, share, 
 </details>
 
+# [Cooking](./pages/cooking)
+
 # Physical Projects
 
 * Water Tester Light Box
